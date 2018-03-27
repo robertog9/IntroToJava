@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=processing
+Exec=/home/administrator/processing-3.3.6/processing
+Icon=/home/administrator/processing-3.3.6/processing.png
+Terminal=false
+Type=Application

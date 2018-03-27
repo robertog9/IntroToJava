@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=eclipse
+Exec=/home/administrator/eclipse/java-oxygen/eclipse/eclipse
+Icon=/home/administrator/eclipse/java-oxygen/eclipse/icon.xpm
+Terminal=false
+Type=Application

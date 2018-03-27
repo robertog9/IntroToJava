@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=audacity
+Exec=/usr/bin/audacity
+Icon=/usr/share/audacity/audacity.png
+Terminal=false
+Type=Application
+Name[en_US]=audacity

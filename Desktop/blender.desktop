@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=blender
+Exec=/home/administrator/blender/blender
+Icon=/home/administrator/blender/blender.svg
+Terminal=false
+Type=Application
